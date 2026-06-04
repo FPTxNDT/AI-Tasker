@@ -1,0 +1,6 @@
+<Solution>
+  <Project Path="AITasker.API/AITasker.API.csproj" />
+  <Project Path="AITasker.Application/AITasker.Application.csproj" />
+  <Project Path="AITasker.Domain/AITasker.Domain.csproj" />
+  <Project Path="AITasker.Infrastructure/AITasker.Infrastructure.csproj" />
+</Solution>
