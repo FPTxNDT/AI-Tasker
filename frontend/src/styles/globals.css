@@ -1,0 +1,12 @@
+/* Expert Dashboard — responsive panel heights */
+.expert-dashboard-panel {
+  overflow-y: auto;
+}
+
+@media (max-width: 1024px) {
+  .expert-dashboard-panel {
+    height: auto !important;
+    min-height: unset !important;
+    max-height: 600px;
+  }
+}
